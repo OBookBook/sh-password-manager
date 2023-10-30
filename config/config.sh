@@ -1,0 +1,5 @@
+FILE_PATH="./data/passwords.txt"
+
+SUCCESS_COLOR_CODE="\e[32m"
+ERROR_COLOR_CODE="\e[31m"
+RESET_COLOR_CODE="\e[0m"
